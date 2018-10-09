@@ -1,0 +1,1 @@
+java -cp C:\Users\sannaray\Downloads\CTODashboard\src\test\java org.junit.runner.JUnitCore RunCukesTest
